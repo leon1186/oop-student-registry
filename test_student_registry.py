@@ -1,4 +1,4 @@
-import pytest
+
 from student_registry import Student
 
 def test_student_initialization():
